@@ -1,5 +1,5 @@
 # Purpose
-`Study of djangorestframework-simplejwt`
+`Study of django model, query`
 
 # Install
 `python=3.8`
