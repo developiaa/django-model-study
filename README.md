@@ -12,3 +12,7 @@
 
 # Create user
 `python manage.py createsuperuser`
+
+
+# ERD
+`https://www.erdcloud.com/d/f4zFx2F9KSxnnHnPd`
